@@ -5,3 +5,8 @@ The project is a simple countdown built using HTML, CSS, and JavaScript. The web
 
 
 ![countdown](https://user-images.githubusercontent.com/70109681/221341809-8c8da007-028b-4966-85c2-66f9df462953.png)
+
+
+HERE IS THE VIDEO OF WHAT THIS PROJECT IS ALL ABOUT
+
+https://user-images.githubusercontent.com/70109681/221342540-50b6824d-79fb-4f60-b087-f72404030119.mp4
